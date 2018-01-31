@@ -1,0 +1,3 @@
+rootProject.name = 'Fitra'
+
+include ':app'
